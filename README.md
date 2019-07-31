@@ -8,7 +8,7 @@
 
 * AndroidStudio : 3.4  
 * NDK : AS 中下载
-
+* .pcm 格式测试文件可在 /resource 目录下获得，encode 后会生成一段小音乐的 .mp3 文件（我自己生成的已放置在 /resource 下）
 ### 坑
 
 1. 模拟器没跑起来，真机可行（猜测是 CPU 问题）
