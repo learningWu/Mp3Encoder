@@ -12,9 +12,10 @@
 * .pcm 格式测试文件可在 /resource 目录下获得，encode 后会生成一段小音乐的 .mp3 文件（我自己生成的已放置在 /resource 下）
 
 ### 权限
-
+```
 <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />  
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+```
     
 ### 坑
 
