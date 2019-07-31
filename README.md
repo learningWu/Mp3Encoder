@@ -6,8 +6,8 @@
 
 ### 环境
 
-AndroidStudio 3.4  
-NDK AS 中下载
+AndroidStudio : 3.4  
+NDK : AS 中下载
 
 ### 坑
 
