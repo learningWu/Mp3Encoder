@@ -1,14 +1,14 @@
-#《音视频权威指南》系列学习
+# 《音视频权威指南》系列学习
 
 ## Mp3Encoder
 
-###《第二章》音视频基础，转码 mp3
+### 《第二章》音视频基础，转码 mp3
 
 将书中 Eclipse 项目在 AS 中实现。可直接运行。
 
 ### 环境
 
-AndroidStudio 3.4
+AndroidStudio 3.4  
 NDK AS 中下载
 
 ### 坑
