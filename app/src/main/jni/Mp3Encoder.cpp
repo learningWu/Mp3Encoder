@@ -29,7 +29,7 @@ JNIEXPORT jint JNICALL Java_com_eddie_mp3encoder_Mp3Encoder_init
 }
 
 JNIEXPORT void JNICALL Java_com_eddie_mp3encoder_Mp3Encoder_encode(JNIEnv * env, jobject obj) {
-    LOGI("嘿嘿嘿");
+    LOGI("嘿嘿嘿 ");
 	if(NULL != encoder) {
 		encoder->Encode();
 	}
